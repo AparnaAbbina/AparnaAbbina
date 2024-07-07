@@ -15,9 +15,9 @@ Here are some of the projects I've been working on:
 
 | Project Name     |        Demo                          | Description                 |
 |------------------|--------------------------------------|-----------------------------|
-| WeatherWise App  |          [WeatherWise](link)              | A React NextJS app I created to solidify my understanding of using/making API calls and manipulating the DOM              |
+| WeatherWise App  |          [WeatherWise](https://weather-wise-aparnaabbinas-projects.vercel.app/)              | A React NextJS app I created to solidify my understanding of using/making API calls and manipulating the DOM              |
 | FaunaGreenLiving Website| [Faunagreenliving](https://www.faunagreenliving.com/) | An user-friendly eductional E-Commerce website for our stakeholder to promote her eco-friendly home solutions products to sustainable lifestyle. This project was created by 5 developers as a team for our final 4-week project at the School of Code.             |
-| Aparna's Petal Palace |    [Garden Center](link)               | A React NextJS and Node JS Garden center webste that I am creating to showcase plants and pots collection and as well to solidify my knowledge as full stack developer               |
+| Aparna's Petal Palace |    [Garden Center](link)               | A React NextJS and Node JS Garden center webste that I am creating to showcase plants and pots collection and as well to solidify my knowledge as full stack developer. This website is still in progress              |
 
 
 ### 🛠️ Technologies & Tools
